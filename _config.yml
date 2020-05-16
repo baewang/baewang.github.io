@@ -14,8 +14,8 @@ author-img: conan.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
-social-github: https://github.com/baewang # add your Github handle
-social-linkedin: https://www.linkedin.com/in/jiwon-bae-16a413178 # add your Linkedin handle
+social-github: baewang # add your Github handle
+social-linkedin: jiwon-bae-16a413178 # add your Linkedin handle
 social-email: bjiwon2005@gmail.com # add your Email address
 
 # Disqus
